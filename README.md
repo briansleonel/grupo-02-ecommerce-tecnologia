@@ -30,7 +30,8 @@ compra en línea fácil y segura.
 
 _Descripción de los integrantes del equipo._
 
--   **Nombre** - [username-git](https://github.com/username-git)
+-   **González, Brian Leonel** -
+    [briansleonel](https://github.com/briansleonel)
 
 ## Inspiración 🎨
 
